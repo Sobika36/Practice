@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sobika36/Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sobika36/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sobika36/Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Sobika36/Practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sobika36/Practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
