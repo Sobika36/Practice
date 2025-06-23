@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sobika36/Practice/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sobika36/Practice/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sobika36/Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sobika36/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sobika36/Practice/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sobika36/Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sobika36/Practice/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sobika36/Practice/tree/master/0029-divide-two-integers) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
