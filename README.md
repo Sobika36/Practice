@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sobika36/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sobika36/Practice/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sobika36/Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sobika36/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sobika36/Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sobika36/Practice/tree/master/0242-valid-anagram) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sobika36/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
