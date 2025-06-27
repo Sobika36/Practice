@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sobika36/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sobika36/Practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Sobika36/Practice/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/Sobika36/Practice/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sobika36/Practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
+| [0349-intersection-of-two-arrays](https://github.com/Sobika36/Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sobika36/Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sobika36/Practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sobika36/Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -67,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sobika36/Practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sobika36/Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sobika36/Practice/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Sobika36/Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
