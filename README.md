@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Sobika36/Practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sobika36/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sobika36/Practice/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/Sobika36/Practice/tree/master/0520-detect-capital) |
 ## Array
 |  |
 | ------- |
