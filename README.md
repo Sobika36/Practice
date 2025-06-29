@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sobika36/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sobika36/Practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Sobika36/Practice/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sobika36/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sobika36/Practice/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sobika36/Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sobika36/Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sobika36/Practice/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sobika36/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
