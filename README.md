@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sobika36/Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Sobika36/Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sobika36/Practice/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Sobika36/Practice/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Sobika36/Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sobika36/Practice/tree/master/0290-word-pattern) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sobika36/Practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Sobika36/Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sobika36/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sobika36/Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sobika36/Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sobika36/Practice/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Sobika36/Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sobika36/Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sobika36/Practice/tree/master/0290-word-pattern) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sobika36/Practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sobika36/Practice/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sobika36/Practice/tree/master/0412-fizz-buzz) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
