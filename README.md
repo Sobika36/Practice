@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sobika36/Practice/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sobika36/Practice/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Sobika36/Practice/tree/master/0520-detect-capital) |
+| [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sobika36/Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sobika36/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Sobika36/Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
 | [1656-count-good-triplets](https://github.com/Sobika36/Practice/tree/master/1656-count-good-triplets) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sobika36/Practice/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 ## Hash Table
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sobika36/Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sobika36/Practice/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sobika36/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
 ## Math
 |  |
 | ------- |
