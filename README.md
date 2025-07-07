@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sobika36/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sobika36/Practice/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sobika36/Practice/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sobika36/Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Sobika36/Practice/tree/master/0520-detect-capital) |
 | [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
 ## Array
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sobika36/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sobika36/Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sobika36/Practice/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sobika36/Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sobika36/Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sobika36/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sobika36/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sobika36/Practice/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sobika36/Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sobika36/Practice/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
 |  |
