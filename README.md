@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sobika36/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Sobika36/Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
+| [1319-unique-number-of-occurrences](https://github.com/Sobika36/Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/Sobika36/Practice/tree/master/1656-count-good-triplets) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sobika36/Practice/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sobika36/Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sobika36/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
+| [1319-unique-number-of-occurrences](https://github.com/Sobika36/Practice/tree/master/1319-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
