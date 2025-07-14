@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Sobika36/Practice/tree/master/0520-detect-capital) |
 | [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/Sobika36/Practice/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sobika36/Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0020-valid-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sobika36/Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sobika36/Practice/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sobika36/Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
