@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sobika36/Practice/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sobika36/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sobika36/Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Sobika36/Practice/tree/master/0076-minimum-window-substring) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sobika36/Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sobika36/Practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sobika36/Practice/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 ## Sliding Window
