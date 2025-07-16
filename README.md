@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sobika36/Practice/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/Sobika36/Practice/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/Sobika36/Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sobika36/Practice/tree/master/0217-contains-duplicate) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Sobika36/Practice/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Sobika36/Practice/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
