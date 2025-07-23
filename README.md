@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Sobika36/Practice/tree/master/0965-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/Sobika36/Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/Sobika36/Practice/tree/master/1656-count-good-triplets) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Sobika36/Practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sobika36/Practice/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 ## Hash Table
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sobika36/Practice/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Sobika36/Practice/tree/master/0412-fizz-buzz) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sobika36/Practice/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Sobika36/Practice/tree/master/2639-separate-the-digits-in-an-array) |
 ## Trie
 |  |
 | ------- |
