@@ -235,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sobika36/Practice/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Sobika36/Practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
