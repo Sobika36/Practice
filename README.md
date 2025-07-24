@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sobika36/Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sobika36/Practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Sobika36/Practice/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/Sobika36/Practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sobika36/Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sobika36/Practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Sobika36/Practice/tree/master/0189-rotate-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Sobika36/Practice/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sobika36/Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sobika36/Practice/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 ## Sliding Window
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sobika36/Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 ## Heap (Priority Queue)
 |  |
