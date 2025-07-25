@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sobika36/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sobika36/Practice/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Sobika36/Practice/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Sobika36/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sobika36/Practice/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sobika36/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sobika36/Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sobika36/Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sobika36/Practice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Sobika36/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sobika36/Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sobika36/Practice/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Sobika36/Practice/tree/master/0205-isomorphic-strings) |
