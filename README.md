@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Sobika36/Practice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sobika36/Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Sobika36/Practice/tree/master/0965-unique-email-addresses) |
+| [2365-percentage-of-letter-in-string](https://github.com/Sobika36/Practice/tree/master/2365-percentage-of-letter-in-string) |
 ## Array
 |  |
 | ------- |
