@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sobika36/Practice/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/Sobika36/Practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sobika36/Practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sobika36/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sobika36/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sobika36/Practice/tree/master/0347-top-k-frequent-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Sobika36/Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sobika36/Practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Sobika36/Practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sobika36/Practice/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Sobika36/Practice/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sobika36/Practice/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Sobika36/Practice/tree/master/1656-count-good-triplets) |
 ## Simulation
 |  |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Sobika36/Practice/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Sobika36/Practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sobika36/Practice/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sobika36/Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
