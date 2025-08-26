@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sobika36/Practice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sobika36/Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sobika36/Practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sobika36/Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sobika36/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Sobika36/Practice/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sobika36/Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sobika36/Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sobika36/Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sobika36/Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sobika36/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sobika36/Practice/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sobika36/Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Merge Sort
 |  |
