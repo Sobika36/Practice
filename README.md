@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sobika36/Practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Sobika36/Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sobika36/Practice/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Sobika36/Practice/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Sobika36/Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sobika36/Practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Sobika36/Practice/tree/master/0189-rotate-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sobika36/Practice/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Sobika36/Practice/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Sobika36/Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sobika36/Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sobika36/Practice/tree/master/0389-find-the-difference) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sobika36/Practice/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Sobika36/Practice/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
