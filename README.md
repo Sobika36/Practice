@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Sobika36/Practice/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Sobika36/Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sobika36/Practice/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Sobika36/Practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sobika36/Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sobika36/Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sobika36/Practice/tree/master/0290-word-pattern) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sobika36/Practice/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
+| [0187-repeated-dna-sequences](https://github.com/Sobika36/Practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sobika36/Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sobika36/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sobika36/Practice/tree/master/0219-contains-duplicate-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sobika36/Practice/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Sobika36/Practice/tree/master/0089-gray-code) |
+| [0187-repeated-dna-sequences](https://github.com/Sobika36/Practice/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Sobika36/Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sobika36/Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sobika36/Practice/tree/master/0389-find-the-difference) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sobika36/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sobika36/Practice/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Sobika36/Practice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Sobika36/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sobika36/Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sobika36/Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -291,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Sobika36/Practice/tree/master/0089-gray-code) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sobika36/Practice/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sobika36/Practice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
