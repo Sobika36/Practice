@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Sobika36/Practice/tree/master/1656-count-good-triplets) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Sobika36/Practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sobika36/Practice/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [4058-compute-alternating-sum](https://github.com/Sobika36/Practice/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sobika36/Practice/tree/master/0412-fizz-buzz) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sobika36/Practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Sobika36/Practice/tree/master/2639-separate-the-digits-in-an-array) |
+| [4058-compute-alternating-sum](https://github.com/Sobika36/Practice/tree/master/4058-compute-alternating-sum) |
 ## Trie
 |  |
 | ------- |
