@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sobika36/Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sobika36/Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sobika36/Practice/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Sobika36/Practice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Sobika36/Practice/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
@@ -306,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sobika36/Practice/tree/master/0187-repeated-dna-sequences) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sobika36/Practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sobika36/Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
