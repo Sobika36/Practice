@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Sobika36/Practice/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Sobika36/Practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sobika36/Practice/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Sobika36/Practice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Sobika36/Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sobika36/Practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Sobika36/Practice/tree/master/0299-bulls-and-cows) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Sobika36/Practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Sobika36/Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sobika36/Practice/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Sobika36/Practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sobika36/Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sobika36/Practice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Sobika36/Practice/tree/master/0292-nim-game) |
@@ -168,12 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sobika36/Practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Sobika36/Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sobika36/Practice/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Sobika36/Practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sobika36/Practice/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sobika36/Practice/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Sobika36/Practice/tree/master/0224-basic-calculator) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sobika36/Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
