@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sobika36/Practice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Sobika36/Practice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Sobika36/Practice/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Sobika36/Practice/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Sobika36/Practice/tree/master/1013-fibonacci-number) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Sobika36/Practice/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Linked List
