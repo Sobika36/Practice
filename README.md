@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Sobika36/Practice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Sobika36/Practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Sobika36/Practice/tree/master/0507-perfect-number) |
+| [0858-mirror-reflection](https://github.com/Sobika36/Practice/tree/master/0858-mirror-reflection) |
 | [1013-fibonacci-number](https://github.com/Sobika36/Practice/tree/master/1013-fibonacci-number) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Sobika36/Practice/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Linked List
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sobika36/Practice/tree/master/0204-count-primes) |
+| [0858-mirror-reflection](https://github.com/Sobika36/Practice/tree/master/0858-mirror-reflection) |
 ## Backtracking
 |  |
 | ------- |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sobika36/Practice/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Sobika36/Practice/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
