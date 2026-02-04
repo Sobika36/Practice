@@ -7,7 +7,9 @@ class Solution {
         return result==1;
     }
     static int GCD(int i,int j){
-        if(j==0) return i;
+        if(j==0){
+            return i;
+        }
         return GCD(j,i%j);
     }
 }
