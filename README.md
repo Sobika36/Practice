@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sobika36/Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
 | [0965-unique-email-addresses](https://github.com/Sobika36/Practice/tree/master/0965-unique-email-addresses) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Sobika36/Practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sobika36/Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/Sobika36/Practice/tree/master/1656-count-good-triplets) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Sobika36/Practice/tree/master/2639-separate-the-digits-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Sobika36/Practice/tree/master/0507-perfect-number) |
 | [0858-mirror-reflection](https://github.com/Sobika36/Practice/tree/master/0858-mirror-reflection) |
 | [1013-fibonacci-number](https://github.com/Sobika36/Practice/tree/master/1013-fibonacci-number) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Sobika36/Practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Sobika36/Practice/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Linked List
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sobika36/Practice/tree/master/0204-count-primes) |
 | [0858-mirror-reflection](https://github.com/Sobika36/Practice/tree/master/0858-mirror-reflection) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Sobika36/Practice/tree/master/1250-check-if-it-is-a-good-array) |
 ## Backtracking
 |  |
 | ------- |
