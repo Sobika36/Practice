@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sobika36/Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sobika36/Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sobika36/Practice/tree/master/0389-find-the-difference) |
+| [1009-complement-of-base-10-integer](https://github.com/Sobika36/Practice/tree/master/1009-complement-of-base-10-integer) |
 ## Sorting
 |  |
 | ------- |
