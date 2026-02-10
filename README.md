@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Sobika36/Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Sobika36/Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0926-find-and-replace-pattern](https://github.com/Sobika36/Practice/tree/master/0926-find-and-replace-pattern) |
+| [0941-valid-mountain-array](https://github.com/Sobika36/Practice/tree/master/0941-valid-mountain-array) |
 | [0965-unique-email-addresses](https://github.com/Sobika36/Practice/tree/master/0965-unique-email-addresses) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Sobika36/Practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sobika36/Practice/tree/master/1319-unique-number-of-occurrences) |
