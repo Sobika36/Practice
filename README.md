@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sobika36/Practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sobika36/Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sobika36/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Sobika36/Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Sobika36/Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Sobika36/Practice/tree/master/0189-rotate-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sobika36/Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sobika36/Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sobika36/Practice/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Sobika36/Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Sobika36/Practice/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Sobika36/Practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sobika36/Practice/tree/master/0205-isomorphic-strings) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sobika36/Practice/tree/master/0100-same-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sobika36/Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
